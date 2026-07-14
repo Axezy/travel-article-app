@@ -99,31 +99,31 @@ VITE_API_URL=https://your-api-url/api
 
 ### Landing Page
 
-![Landing](assets/landing.png)
+![Landing](../src/assets/landing.png)
 
 ---
 
 ### Login
 
-![Login](assets/login.png)
+![Login](../src/assets/login.png)
 
 ---
 
 ### Register
 
-![Register](assets/register.png)
+![Register](../src/assets/register.png)
 
 ---
 
 ### Dashboard
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](../src/assets/dashboard.png)
 
 ---
 
 ### Detail Article
 
-![Detail](assets/detail.png)
+![Detail](..src/assets/detail.png)
 
 Contoh:
 
