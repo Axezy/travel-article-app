@@ -97,7 +97,33 @@ VITE_API_URL=https://your-api-url/api
 
 ## 📸 Screenshots
 
-Tambahkan screenshot aplikasi di sini setelah project selesai.
+### Landing Page
+
+![Landing](assets/landing.png)
+
+---
+
+### Login
+
+![Login](assets/login.png)
+
+---
+
+### Register
+
+![Register](assets/register.png)
+
+---
+
+### Dashboard
+
+![Dashboard](assets/dashboard.png)
+
+---
+
+### Detail Article
+
+![Detail](assets/detail.png)
 
 Contoh:
 

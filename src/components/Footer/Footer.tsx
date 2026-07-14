@@ -43,8 +43,8 @@ export default function Footer() {
           </h3>
 
           <ul className="space-y-3 text-gray-300">
-            <li>support@travelarticles.com</li>
-            <li>+62 812-3456-7890</li>
+            <li>Developed by Garnenggo</li>
+            <li>Politeknik Negeri Padang</li>
             <li>Padang, Indonesia</li>
           </ul>
         </div>
