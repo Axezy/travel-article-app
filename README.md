@@ -125,14 +125,6 @@ VITE_API_URL=https://your-api-url/api
 
 ![Detail](./src/assets/detail.png)
 
-Contoh:
-
-- Landing Page
-- Dashboard
-- Detail Article
-- Login
-- Register
-
 ---
 
 ## 📌 Future Improvements
